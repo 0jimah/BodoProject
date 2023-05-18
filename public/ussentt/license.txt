@@ -1,0 +1,11 @@
+Model Information:
+* title:	USS Enterprise NCC-1701-A
+* source:	https://sketchfab.com/3d-models/uss-enterprise-ncc-1701-a-75156f5812e34342a3dd5c2ba394d4ed
+* author:	Terranimperial (https://sketchfab.com/tortdenn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "USS Enterprise NCC-1701-A" (https://sketchfab.com/3d-models/uss-enterprise-ncc-1701-a-75156f5812e34342a3dd5c2ba394d4ed) by Terranimperial (https://sketchfab.com/tortdenn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

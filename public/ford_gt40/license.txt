@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ford GT40
+* source:	https://sketchfab.com/3d-models/ford-gt40-58ceb34b4b3f466cbee2acc0c1779497
+* author:	PapaX007 (https://sketchfab.com/PapaX007)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ford GT40" (https://sketchfab.com/3d-models/ford-gt40-58ceb34b4b3f466cbee2acc0c1779497) by PapaX007 (https://sketchfab.com/PapaX007) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Argo shuttlecraft [Star Trek] ZEO
+* source:	https://sketchfab.com/3d-models/argo-shuttlecraft-star-trek-zeo-6c5c98fec8414d19ad9a90409d3780c8
+* author:	ZEO CMF (https://sketchfab.com/ZEOCMF)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Argo shuttlecraft [Star Trek] ZEO" (https://sketchfab.com/3d-models/argo-shuttlecraft-star-trek-zeo-6c5c98fec8414d19ad9a90409d3780c8) by ZEO CMF (https://sketchfab.com/ZEOCMF) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
